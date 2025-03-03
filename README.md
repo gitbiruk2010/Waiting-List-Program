@@ -45,3 +45,5 @@ The JUnit test suite (WaitingListTest.java) validates core functionalities:
     Empty Queue: Checks behavior when trying to serve from an empty list.
     Case Sensitivity: Ensures names are case-sensitive.
     Empty String Handling: Checks if empty names are managed correctly.
+
+![image](https://github.com/user-attachments/assets/1e2ddb86-fae7-4d95-ac0a-f436a3678910)
